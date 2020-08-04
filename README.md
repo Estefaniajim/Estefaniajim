@@ -11,7 +11,7 @@
 <details>
     <summary align="center"><samp>Hey there!</samp></summary>
     <hr>
-    <img src="https://media2.giphy.com/media/Hj6WFOXRl8vT2/source.gif" alt="welcome to my profile!" align="left" valign="middle">
+    <img src="stats.PNG" alt="welcome to my profile!" align="left" valign="middle">
     I’m <strong>Estefania</strong> (she/her). I’m  an  <code>Compter Science student</code> I also love cats, video games and k-pop.
     <hr>
     <p align="center">
