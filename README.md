@@ -17,7 +17,7 @@
     <hr>
     <p align="center">
      <br>
-     hi   
+   <strong> Languages and Tools I like</strong>
     <hr>
     <p align="center">
      <br>
