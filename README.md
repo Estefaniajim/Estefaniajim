@@ -12,7 +12,7 @@
     <summary align="center"><samp>Hey there!</samp></summary>
     <hr>
      <p align="left" valign="middle">
-    <![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)align="left" valign="middle">
+    ![Estefania's github stats](https://github-readme-stats.vercel.app/api?username=Estefaniajim&show_icons=true&theme=dracula)
     </p>
     I’m <strong>Estefania</strong> (she/her). I’m  an  <code>Compter Science student</code> I also love cats, video games and k-pop.
     <hr>
