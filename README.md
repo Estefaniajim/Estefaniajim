@@ -14,15 +14,11 @@
     <img src="https://i.ibb.co/Sxb0Vhh/rsz-stats.png" align="left" valign="middle">
     I’m <strong>Estefania</strong> (she/her). I’m  an  <code>Compter Science student</code> at Tec de Monterrey.
     I also love cats, anime and k-pop.
+     <strong> Languages and Tools I like</strong>
+    <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
     <hr>
     <p align="center">
      <br>
-   <strong> Languages and Tools I like</strong>
-        <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-        
-    <hr>
-    <p align="center">
-     <br>
-    <a href="https://twitter.com/Estefi_jim_gar"><kbd>say hi on twitter</kbd></a> <a href="https://www.instagram.com/estefi_jim/"><kbd>follow me on ig</kbd></a>  <a href="https://devpost.com/Estefaniajim?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><kbd>check my devpost</kbd></a>  <a href="https://www.linkedin.com/in/estefania-jimenez-garcia-b6b81a13b/"><kbd>connect with my linkedin</kbd></a>
+    <a href="https://twitter.com/Estefi_jim_gar"><kbd>say hi on twitter</kbd></a> <a href="https://www.instagram.com/estefi_jim/"><kbd>follow me on ig</kbd></a>  <a        href="https://devpost.com/Estefaniajim?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><kbd>check my devpost</kbd></a>  <a href="https://www.linkedin.com/in/estefania-jimenez-garcia-b6b81a13b/"><kbd>connect with my linkedin</kbd></a>
     </p>
 </details>
