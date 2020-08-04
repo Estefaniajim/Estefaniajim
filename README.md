@@ -16,7 +16,7 @@
     I also love cats, anime and k-pop.
     <p align="center">
      <strong> Languages and Tools I like</strong>
-        <p>
+        <p align="center">
     <img width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
         <img width="26px" src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-161x300.png" />
         <img width="26px" src="https://e7.pngegg.com/pngimages/211/917/png-clipart-pycharm-integrated-development-environment-jetbrains-intellij-idea-python-others-miscellaneous-angle.png" />
