@@ -11,12 +11,12 @@
 <details>
     <summary align="center"><samp>Hey there!</samp></summary>
     <hr>
-    <img src="https://picresize.com/popup.html?images/rsz_stats.png" align="left" valign="middle">
+    <img src="https://i.ibb.co/Sxb0Vhh/rsz-stats.png" align="left" valign="middle">
     I’m <strong>Estefania</strong> (she/her). I’m  an  <code>Compter Science student</code> I also love cats, video games and k-pop.
     <hr>
     <p align="center">
-        <br>
-        <a href="https://twitter.com/Estefi_jim_gar"><kbd>say hi on twitter</kbd></a> <a href="https://www.instagram.com/estefi_jim/"><kbd>follow me on ig</kbd></a>  <a href="https://devpost.com/Estefaniajim?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><kbd>check my devpost</kbd></a>  <a href="https://www.linkedin.com/in/estefania-jimenez-garcia-b6b81a13b/"><kbd>connect with my linkedin</kbd></a>
+     <br>
+    <a href="https://twitter.com/Estefi_jim_gar"><kbd>say hi on twitter</kbd></a> <a href="https://www.instagram.com/estefi_jim/"><kbd>follow me on ig</kbd></a>  <a href="https://devpost.com/Estefaniajim?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><kbd>check my devpost</kbd></a>  <a href="https://www.linkedin.com/in/estefania-jimenez-garcia-b6b81a13b/"><kbd>connect with my linkedin</kbd></a>
     </p>
 </details>
 
