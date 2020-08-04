@@ -16,7 +16,18 @@
     I also love cats, anime and k-pop.
     <p align="center">
      <strong> Languages and Tools I like</strong>
+        <p>
     <img width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
+        <img width="26px" src="https://www.sommelierdecafe.com/2019/wp-content/uploads/2009/06/java-logo1-161x300.png" />
+        <img width="26px" src="https://e7.pngegg.com/pngimages/211/917/png-clipart-pycharm-integrated-development-environment-jetbrains-intellij-idea-python-others-miscellaneous-angle.png" />
+    <img width="26px" src="https://w7.pngwing.com/pngs/392/422/png-transparent-intellij-idea-integrated-development-environment-computer-software-pycharm-jetbrains-java-plum-miscellaneous-text-logo-thumbnail.png" />
+         <img width="26px" src="https://static.javatpoint.com/tutorial/pandas/images/python-pandas.png" />
+            <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1280px-NumPy_logo.svg.png" />
+            <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png" />
+           <img width="26px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" />
+           <img width="26px" src="https://cdn.worldvectorlogo.com/logos/flask.svg" />
+        <img width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" />
+    </p>
     </p>
     <hr>
     <p align="center">
