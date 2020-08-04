@@ -9,7 +9,7 @@
 </p>
 
 <details>
-    <summary align="center"><samp>Hey there!</samp></summary>
+    <summary align="center"><samp>Hey there! ✨</samp></summary>
     <hr>
     <img src="https://i.ibb.co/Sxb0Vhh/rsz-stats.png" align="left" valign="middle">
     I’m <strong>Estefania</strong> (she/her). I’m  an  <code>Compter Science student</code> I also love cats, anime and k-pop.
