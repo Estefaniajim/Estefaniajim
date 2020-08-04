@@ -14,8 +14,10 @@
     <img src="https://i.ibb.co/Sxb0Vhh/rsz-stats.png" align="left" valign="middle">
     I’m <strong>Estefania</strong> (she/her). I’m  an  <code>Compter Science student</code> at Tec de Monterrey.
     I also love cats, anime and k-pop.
+    <p align="center">
      <strong> Languages and Tools I like</strong>
     <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+    </p>
     <hr>
     <p align="center">
      <br>
