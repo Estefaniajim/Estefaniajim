@@ -11,10 +11,10 @@
 <details>
     <summary align="center"><samp>Hey there!</samp></summary>
     <hr>
-    <img src="https://media2.giphy.com/media/Hj6WFOXRl8vT2/source.gif" alt="welcome to my profile!" align="left" valign="middle"> hihi, i’m <strong>skullface</strong> (she/her) (*＾▽＾)／ i’m ① an interdisciplinary <code>designer</code> + visual <code>artist</code> + <code>programmer</code> ② in love with saturated colors and sparkles ③ working toward racial + economic + queer + womxn’s liberation — i call this being a <strong>design babe dual-wielding compassion and cuteness</strong> ⚔️🎀~ at github, i design and develop marketing experiences; my favorite project i’ve shipped is the <a href="https://github.com/about/diversity">diversity</a> page. i also love cats, video games, k-pop, and skincare!
+    <img src="https://media2.giphy.com/media/Hj6WFOXRl8vT2/source.gif" alt="welcome to my profile!" align="left" valign="middle"> I’m <strong>Estefania</strong> (she/her). I’m  an  <code>Compter Science student</code> I also love cats, video games and k-pop.
     <hr>
     <p align="center">
-        👋 have the best day you can 🌈<br>
-        <a href="https://twitter.com/intent/tweet?text=@skullface%20owo%20hello%21%20"><kbd>say hi on twitter</kbd></a> <a href="https://instagram.com/skvllface"><kbd>follow me on ig</kbd></a>
+        <br>
+        <a href="https://twitter.com/Estefi_jim_gar"><kbd>say hi on twitter</kbd></a> <a href="https://www.instagram.com/estefi_jim/"><kbd>follow me on ig</kbd></a>  <a href="https://devpost.com/Estefaniajim?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"><kbd>check my devpost</kbd></a>  <a href="https://www.linkedin.com/in/estefania-jimenez-garcia-b6b81a13b/"><kbd>connect with my linkedin</kbd></a>
     </p>
 </details>
