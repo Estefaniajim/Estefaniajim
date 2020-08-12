@@ -13,7 +13,7 @@
     <hr>
     <img src="https://i.ibb.co/Sxb0Vhh/rsz-stats.png" align="left" valign="middle">
     I’m <strong>Estefania</strong> (she/her). I’m  an  <code>Compter Science student</code> at Tec de Monterrey.
-    I also love cats, anime and SHINee.
+    I also love cats, anime and SHINee. I spend a lot of my time participating in hackathons and learning ML.
     <p align="center">
      <strong> Languages and Tools I like</strong>
         <p align="center">
