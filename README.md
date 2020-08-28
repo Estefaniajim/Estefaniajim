@@ -12,7 +12,7 @@
 <details>
     <summary align="center"><samp>Hey there! ✨</samp></summary>
     <hr>
-    <img src="https://i.ibb.co/s5Bk2qj/rsz-aa.png" align="left" valign="middle">
+    <img src="stats.jpg " align="left" valign="middle">
     I’m <strong>Estefania</strong> (she/her). I’m  an  <code>Compter Science student</code> at Tec de Monterrey.
     I also love cats, anime and SHINee. I spend a lot of my time participating in hackathons and learning ML.
     <p align="center">
